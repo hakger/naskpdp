@@ -1,0 +1,23 @@
+{
+	"name" : "hakger/naskpdp",
+	"authors" : [{
+			"name" : "Hubert Kowalski",
+			"email" : "h.kowalski@hakger.pl",
+			"homepage" : "https://hakger.pl",
+			"role" : "Developer"
+		}
+	],
+	"support" : {
+		"email" : "bok@hakger.pl",
+		"issues" : "https://phabricator.hakgersoft.pl",
+		"forum" : "https://phabricator.hakgersoft.pl"
+	},
+	"repositories" : [{
+			"type" : "composer",
+			"url" : "https://satis.hakgersoft.pl"
+		}
+	],
+	"require": {
+		"hakger/php-epp2": "dev-master"
+	}
+}

@@ -1,0 +1,71 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7ab54b88bc286a8bfddfd1b671cfb25c",
+    "packages": [
+        {
+            "name": "hakger/php-epp2",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "ssh://vcs@phabricator.hakgersoft.pl/diffusion/PHPEPP/php-epp2.git",
+                "reference": "b3ac05b1b9207a6934de6554b04f117d23044e01"
+            },
+            "require": {
+                "ext-intl": "*",
+                "ext-openssl": "*",
+                "php": ">=5.5.0"
+            },
+            "replace": {
+                "africc/php-epp2": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AfriCC\\": "src/AfriCC"
+                }
+            },
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Gunter Grodotzki",
+                    "email": "hello@afri.cc",
+                    "homepage": "https://www.afri.cc",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Hubert Kowalski",
+                    "email": "h.kowalski@hakger.pl",
+                    "homepage": "https://www.hakger.pl",
+                    "role": "Contributor"
+                }
+            ],
+            "description": "A High Level EPP (Extensible Provisioning Protocol) TCP/SSL Client for PHP. HAKGERSoft fork.",
+            "homepage": "https://github.com/hakger/php-epp2",
+            "keywords": [
+                "client",
+                "domains",
+                "epp",
+                "registrar",
+                "registry",
+                "tcp"
+            ],
+            "time": "2019-01-09T22:30:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "hakger/php-epp2": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
