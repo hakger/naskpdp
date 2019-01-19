@@ -2,9 +2,49 @@
 
 function NASK_getConfigArray() {
     $configArray = array(
-        "Username" => array("type" => "text", "size" => "20", "description" => _("Enter your username here"),),
-        "Password" => array("type" => "password", "size" => "20", "description" => _("Enter your password here"),),
-        "TestMode" => array("type" => "yesno",)
+        "Host" => array(
+            "type" => "text",
+            "size" => "255",
+            "description" => _("Hostname with protocol to NASK server"),
+            "defaultValue" => "https://registry.dns.pl/registry/epp",
+        ),
+        "Username" => array(
+            "type" => "text",
+            "size" => "20",
+            "description" => _("Enter your username here"),
+        ),
+        "Password" => array(
+            "type" => "password",
+            "size" => "20",
+            "description" => _("Enter your password here"),),
+        "Prefix" => array(
+            "type" => "text",
+            "size" => "16",
+            "title" => _("Contact Id Prefix"),
+            "description" =>  _("Enter mandatory prefix provided by NASK, min 3 letters"),
+        ),
+        "CACert" => array(
+            "type" => "text",
+            "size" => "255",
+            "title"=> _("CA Chain"),
+            "description" => _("Path to NASK CA chain. If starts with '/' is interpreted as absolute."),
+            "defaultValue" => "nask_root_ca.pem",
+        ),
+        "Cert" => array(
+            "type" => "text",
+            "size" => "255",
+            "title" => _("Client Certificate"),
+            "description" => _("Path to client certificate issued by NASK"),
+            "defaultValue" => "certificate_prod.pem",
+        ),
+        "PrivateKey" => array(
+            "type" => "text",
+            "size" => "255",
+            "title" => _("Private Key"),
+            "description" => _("Path to client certificate Private Key issued by NASK"),
+            "defaultValue" => "key_prod.pem",
+        ),
+        "Debug" => array("type" => "yesno",)
     );
     return $configArray;
 }
