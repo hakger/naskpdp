@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-12 11:45+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:5
+msgid "Enter your username here"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:6
+msgid "Enter your password here"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:245
+msgid "This domain is not available"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:246
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:248
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:251
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:254
+msgid "This domain is available"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:262
+msgid "This domain is available for transfer"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:274
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:401
+msgid "Tax ID"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:275
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:402
+msgid "Address Confirmation"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:275
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:402
+msgid "Please confirm you have a valid German address"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:282
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:413
+msgid "You should fill Tax ID correctly"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:295
+msgid "Company number"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:302
+msgid "You should to fill Company number correctly"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Individual"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Economic Interest Group"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Association"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Sports Association"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Professional Association"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Savings Bank"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Community Property"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Community of Owners"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Order or Religious Institution"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Consulate"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Public Law Association"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Embassy"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Local Authority"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Sports Federation"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Foundation"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Mutual Insurance Company"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Regional Government Body"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Central Government Body"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Political Party"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Trade Union"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Farm Partnership"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Public Limited Company"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Civil Society"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "General Partnership"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "General and Limited Partnership"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Cooperative"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Worker-owned Company"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Limited Company"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Spanish Office"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Temporary Alliance of Enterprises"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Worker-owned Limited Company"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Regional Public Entity"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "National Public Entity"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Local Public Entity"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Others"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid ""
+"Designation of Origin Supervisory (only for contacts outsight of Spain) "
+"Council"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "Entity Managing Natural Areas"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:316
+msgid "-- Select your entity type --"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:317
+msgid ""
+"Choose your Entity Type. If legal registrant is a person outside of Spain "
+"choose 'Individual'. If legal registrant is a business outside of Spain "
+"choose 'Others'."
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:330
+msgid ""
+"If legal registrant is a person from Spain choose NIF or NIE. If legal "
+"registrant is a business in Spain choose CIF. If legal registrant is a "
+"person or a business outside of Spain choose 'Other form of ID'."
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:338
+msgid "NIF (Spanish citizen)"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:338
+msgid "NIE (Legal residents in Spain)"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:338
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:361
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:379
+msgid "Other form of ID (Those outside of Spain)"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:361
+msgid "CIF (Spanish company)"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:379
+msgid "ID number (Foreign company)"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:403
+msgid "Some random dropdown"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:403
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:406
+msgid "Select something"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:403
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:427
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:436
+msgid "MEGA"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:403
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:427
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:436
+msgid "UBER"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:403
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:427
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:436
+msgid "SUPER"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:406
+msgid "Random dependant dropdown"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:427
+msgid "SUPER1"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:436
+msgid "SUPER2"
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:463
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:465
+msgid "Domain data has been inquired successfully."
+msgstr ""
+
+#: /jbuild/workspace/7.1/update/hotfix-build-osspec/jdk/8/label/build-oa71-rhel7/modules/domain/domain-sdk/assembly/target/files/var/www/pa-domain-sdk/Dummy/Dummy.php:467
+msgid "This operation cannot be performed for this domain."
+msgstr ""

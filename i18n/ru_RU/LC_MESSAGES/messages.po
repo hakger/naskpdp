@@ -1,0 +1,96 @@
+# Russian translations for PACKAGE package
+# Английские переводы для пакета PACKAGE.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-15 18:58+0300\n"
+"PO-Revision-Date: 2016-03-15 18:58+0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: Dummy.php:5
+msgid "Enter your username here"
+msgstr "Введите ваше имя"
+
+#: Dummy.php:6
+msgid "Enter your password here"
+msgstr "Введи ваш пароль"
+
+#: Dummy.php:140
+msgid "This domain is not available"
+msgstr "Этот домен не доступен"
+
+#: Dummy.php:141 Dummy.php:143 Dummy.php:146
+msgid "This domain is available"
+msgstr "Этот домен доступен"
+
+#: Dummy.php:154
+msgid "This domain is available for transfer"
+msgstr "Этот домен доступен для трансфера"
+
+#: Dummy.php:168 Dummy.php:207
+msgid "Tax ID"
+msgstr "ИНН"
+
+#: Dummy.php:169 Dummy.php:208
+msgid "Address Confirmation"
+msgstr "Адрес"
+
+#: Dummy.php:169 Dummy.php:208
+msgid "Please confirm you have a valid German address"
+msgstr "Пожалуйста подтвердите наличение немецкого адреса"
+
+#: Dummy.php:176
+msgid "You should to fill Tax ID correctly"
+msgstr "Вы должны правильно заполнить ИНН"
+
+#: Dummy.php:189
+msgid "Company number"
+msgstr "Номер компании"
+
+#: Dummy.php:196
+msgid "You should to fill Company number correctly"
+msgstr "Вы должны правильно заполнить номер компании"
+
+#: Dummy.php:209
+msgid "Some random dropdown"
+msgstr "Некоторый случайный список для выбора"
+
+#: Dummy.php:209
+msgid "Select something"
+msgstr "Выберите что-нибудь"
+
+#: Dummy.php:209
+msgid "MEGA"
+msgstr "MEGA"
+
+#: Dummy.php:209
+msgid "UBER"
+msgstr "UBER"
+
+#: Dummy.php:209
+msgid "SUPER"
+msgstr "SUPER"
+
+#: Dummy.php:218
+msgid "You should fill Tax ID correctly"
+msgstr "Вы должны правильно заполнить ИНН"
+
+#: Dummy.php:263
+msgid "Domain data has been inquired successfully."
+msgstr "Данные о домене были успешно доставлены."
+
+#: Dummy.php:265
+msgid "This operation cannot be performed for this domain."
+msgstr "Эта операция не может быть выполнена для этого домена."
